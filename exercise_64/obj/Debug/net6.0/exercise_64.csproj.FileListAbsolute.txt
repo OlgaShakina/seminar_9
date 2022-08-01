@@ -1,0 +1,15 @@
+/Users/admin/seminar_9/exercise_64/bin/Debug/net6.0/exercise_64
+/Users/admin/seminar_9/exercise_64/bin/Debug/net6.0/exercise_64.deps.json
+/Users/admin/seminar_9/exercise_64/bin/Debug/net6.0/exercise_64.runtimeconfig.json
+/Users/admin/seminar_9/exercise_64/bin/Debug/net6.0/exercise_64.dll
+/Users/admin/seminar_9/exercise_64/bin/Debug/net6.0/exercise_64.pdb
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.csproj.AssemblyReference.cache
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.AssemblyInfoInputs.cache
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.AssemblyInfo.cs
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.csproj.CoreCompileInputs.cache
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.dll
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/refint/exercise_64.dll
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.pdb
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/exercise_64.genruntimeconfig.cache
+/Users/admin/seminar_9/exercise_64/obj/Debug/net6.0/ref/exercise_64.dll
